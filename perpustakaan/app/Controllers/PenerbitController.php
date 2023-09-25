@@ -23,4 +23,4 @@ class PenerbitController extends BaseController
 
     }
         
-    }
+}
